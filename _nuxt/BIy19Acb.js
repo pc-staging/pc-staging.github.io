@@ -1,0 +1,1 @@
+import{an as t}from"./K2Vc8_Lp.js";function o(){const{$api:o}=t();return o("/v2api/token/v1/stock/config",{method:"get"})}function n(o){const{$api:n}=t();return n("/v2api/token/v1/stock/list",{method:"get",query:o})}function e(){const{$api:o}=t();return o("/v2api/token/v1/stock/market_status",{method:"get"})}export{o as a,n as b,e as g};
