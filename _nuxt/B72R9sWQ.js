@@ -1,0 +1,1 @@
+import{Pr as r}from"./Fo-BQe1c.js";function o(o){!1!==o&&r.error(String(o))}export{o as t};
